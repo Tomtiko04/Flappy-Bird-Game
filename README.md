@@ -11,7 +11,7 @@ Thanks for checking out this Flapp Bird Game.
 
 ## Continued development
 
-Work in process to develop other levels
+Work in process to develop other levels of this game.
 
 ## Author
 
