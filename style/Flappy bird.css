@@ -81,10 +81,6 @@ body {
     border: none;
     background-color: green;
     border-radius: 11px;
-    -webkit-border-radius: 11px;
-    -moz-border-radius: 11px;
-    -ms-border-radius: 11px;
-    -o-border-radius: 11px;
     color: #fff;
     font-size: 1.5rem;
     text-transform: uppercase;
